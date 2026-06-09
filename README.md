@@ -14,6 +14,8 @@ This end-to-end data analytics project focuses on analyzing historical oil and g
 - 📊 `cleaned_oil_and_gas_data.csv` - Final polished dataset used for visualization.
 - 🖼️ `U.S. Oil & Gas Production Performance Dashboard.twbx` - Tableau Packaged Workbook.
 
+## 🖼️ Dashboard Preview
+![Dashboard Layout](U.S. Oil & Gas Production Performance Dashboard.png)
 
 ## 💡 Key Business Insights Extracted
 1. **Production Decline Analysis**: Isolated and visualized the exact production decline patterns across multiple counties from 1967 to 1999.
